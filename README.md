@@ -18,7 +18,7 @@ npm install
 Start the server with:
 
 ```sh
-npm run serve
+npm run serve:dev
 ```
 
 Open a browser and go to `http://localhost:4040` for the homepage.
